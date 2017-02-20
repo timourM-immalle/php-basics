@@ -34,7 +34,7 @@ $scrabble = array(
 
 // gevraagd: Zorg dat de functie show alle keys en values afdrukt. Maak gebruik van een foreach-loop. Extra: zorg dat de volgorde oplopend is naar aantal punten per letter.
 
-funcion show($assray) {
+function show($assray) {
 
 }
 
