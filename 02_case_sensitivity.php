@@ -19,7 +19,11 @@ if($val == null) {
     echo "$val is not defined.";
 }
 
-// Print de string "De waarde van $waarde is 8." door maar 1 keer gebruik te maken v.d. concatentie-operator en de juiste soort quotes: single (') of double (").
+// Print de string "De waarde van $waarde is 3." 
+// door maar 1 keer gebruik te maken v.d. concatenatie-operator
+// en de juiste soort quotes: single (') of double (").
+// Je kan dit zelfs oplossen ZONDER de concatenatie-opeartor
+// te gebruiken als je $ kan escapen.
 
 
 
