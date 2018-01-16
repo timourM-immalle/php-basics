@@ -21,5 +21,11 @@ foreach ($collega as $collegae)
 $naam = "Willy";
 
 // Itereer met een for-loop over de variable $naam alsof het een array was. (Dus de letters 1 voor 1 afdrukken.)
+$naam = "Willy";
 
+echo '<ol>';
+for ($i = 0; $i < strlen($naam); $i++)
+{
+	echo '<li>' . $naam[$i] . '</li>';
+}
 ?>
